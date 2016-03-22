@@ -1,19 +1,35 @@
 package main
-
 import "fmt"
 
-var temp = 0
+var x [5]int
+var count int =0
+var total int =0
+func main() {
+   
+  fmt.Println("Enter the 5 values:")
+ 
+  for i :=0; i < 5; i++{
+  	fmt.Println(" position of value:",i)
+  	fmt.Scanf("%d",&x[i])
+  }
+   fmt.Println("Total:")
+   totalvalue()
+   fmt.Println("Average value:")
+   average()
+  
+}
 
-func main(){
-	
-	for j := 1; j <= 100; j++{
+func totalvalue(){
+	for i := 0; i < 5; i++ {
+    total += x[i]
+  }
+  fmt.Println(total)
+}
 
-	if ( j%3 == 0) || ( j%6 == 0) || ( j%9 == 0) {
-	  
-	  temp += j
-	} 
-
-    }
-
-    fmt.Println("Number:",temp)
+func average(){
+	for i := 0; i < 5; i++ {
+    total += x[i]
+    count++
+  }
+  fmt.Println(total/count)
 }
