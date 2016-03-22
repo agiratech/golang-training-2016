@@ -4,8 +4,13 @@ import "fmt"
 
 var n int
 var i int
+<<<<<<< HEAD
 var average int
 type Student struct{
+=======
+
+type Student struct {
+>>>>>>> 73576cc831ecb76bc573ecc24d32ec359b155122
   
   Name string
   RollNo int
@@ -25,7 +30,7 @@ fmt.Scanf("%d", &stu.RollNo)
 fmt.Println("Enter Student Subjects : ")
 fmt.Scanf("%d", &stu.Subjects)
 fmt.Println("Enter Student Over-all_Marks : ")
-fmt.Scanf("%s", &stu.OverallMarks)
+fmt.Scanf("%d", &stu.OverallMarks)
 
 fmt.Println("Your Total Subjects average Marks is : ",average)
 average = stu.OverallMarks/stu.Subjects
@@ -34,8 +39,8 @@ return stu
 }
  
 func main() {
- 
- var b Student 
- b = studentdetails()
+ var a Student 
+  a = studentdetails()
+	fmt.Println("Hi ",a.Name,"(",a.RollNo,") You got ",a.OverallMarks,"in ",a.Subjects)
   
 }
