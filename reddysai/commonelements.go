@@ -33,9 +33,10 @@ func commonElements(f,s []int) {
 					com=append(com, f[i])
 						
 				
-						}else { 
+						} else { 
 
-							//uncom=append(uncom, f[i])}
+							//uncom=append(uncom, f[i])
+							}
 					     }
 					}
 	fmt.Println("The common values are ")
