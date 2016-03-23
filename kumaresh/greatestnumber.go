@@ -10,20 +10,21 @@ func main(){
      
     fmt.Println("Enter the size:")
     fmt.Scanf("%d", &n)
-    var x = make([]int,n)
+    var array = make([]int,n)
     //---------input values
     fmt.Println("Enter the Set of", n, "values:")
     
 	    for i :=0; i < n; i++ {
 	    
-	     fmt.Scanf("%d",&x[i])
-	    } 
+	     fmt.Scanf("%d",&array[i])
+	    }
+
     //Check that values which one is greatest 
-	        great = x[0]
-		    for i :=0; i < len(x); i++ {
+	        great = array[0]
+		    for i :=0; i < len(array); i++ {
 		
-	           if great < x[i]{
-	           	great = x[i]
+	           if great < array[i]{
+	           	great = array[i]
 	           }
 
 		}
