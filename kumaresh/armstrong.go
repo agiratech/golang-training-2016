@@ -15,19 +15,28 @@ func main(){
 
 
  func arm_Strong(n int){
-    var number int = 0
+    
     //VARIABLE
     var temp int = n
+    var re int 
    //CONDITION 
-    for temp != 0 {
-      var rem int
-  	  rem = temp%10
-  	  number += rem*rem*rem
-  	  temp = temp/10
-    }
-    //OUTPUT
-    if n == number {
-	fmt.Println("Armstrong Number", number)
+    re = recur(temp)
+    if n == re {
+	fmt.Println("Armstrong Number", n)
     } 
 
+ }
+//recursion
+ func recur (temp int) int {
+    var rem int
+    var number int = 0
+    
+    rem = temp%10
+    number += rem*rem*rem
+    temp = temp/10
+    
+    if temp != 0 {
+        recur(temp)
+    } 
+    return number
  }
