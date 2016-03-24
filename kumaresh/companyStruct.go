@@ -1,6 +1,7 @@
 package main
 import "fmt"
 
+
 type company struct{
 	emp_no int
 	emp_name string
@@ -36,8 +37,9 @@ func main() {
 	switch t{
 		case 1: fmt.Println("call By value:")
              member(t)
-        case 2; fmt.Println("call by reference:")
-             member1(t)   
+        case 2: fmt.Println("call by reference:")
+             member(t)   
 	}
 
 }
+
