@@ -4,8 +4,8 @@ package main
 
  func main(){
 
- var a int = 100;
- var b int = 200;
+ var a int = 100
+ var b int = 200
 
  fmt.Println("Before Swapping",a)
  fmt.Println("Before Swapping",b)
@@ -18,8 +18,14 @@ package main
  }
 
 func swap(x , y int) (int, int) {
+	
+	var temp int
 
-	return y, x ;
+	temp = x 
+	x = y 
+	y = temp
+
+	return x, y ;
 
 
 }

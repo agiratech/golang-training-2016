@@ -36,3 +36,6 @@ func main() {
 	fmt.Println("Hi ",a.Name,"(",a.RollNo,") Your average is",average,"in ",a.Subjects,"Subjects")
   
 }
+
+
+
