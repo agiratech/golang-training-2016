@@ -58,7 +58,7 @@ func main(){
     
     fmt.Println("Minimum_height of a tree is:", mi_Depth(root))
     
-    fmt.Println("levels of a tree is:", level(root))
+    fmt.Println("levels of a tree is:", level(root, n-1, 1))
     
     //fmt.Println(child,"child", count,"root",le,"left",re,"right")
 
@@ -141,14 +141,14 @@ func mi_Depth(d *tree) int{
 		
 }
 
-func level(l *tree) int{
-  lev := 0
+
+/*func level(l *tree) int{
 
   if (l == nil){
   	return lev
   }/*else if (l == l1 ){
   	return lev
-  }*/else if ((l.left == nil) && (l.right == nil)) {
+  }else if ((l.left == nil) && (l.right == nil)) {
   	return -1
   	
   }else{
@@ -162,6 +162,18 @@ func level(l *tree) int{
        return l2  
     }
 }
+
+}*/
+
+func level(l *tree, l1 int, lev int) int{
+
+  if (l == nil){
+  	return lev
+  }else if (l.value == l1 ){
+  	return lev+1
+  }else{
+  	return (level(l.left, l1, lev+2) | level(l.right, l1, lev+2))
+  }
 
 }
 
