@@ -21,7 +21,7 @@ func (r *rect) Scale() int {
 
 func main() {
 	r := rect{3, 4}
-	fmt.Println(&area(r))
+	fmt.Println(area(r))
 	fmt.Println(r.Scale())
-	fmt.Println(&area(r))
+	fmt.Println(area(r))
 }
