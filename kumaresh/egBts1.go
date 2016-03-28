@@ -1,10 +1,10 @@
 package main
 import "fmt"
 
-/*type prin interface{
-	prin1()
+type prin interface{
+	prin1() 
 }
-*/
+
 type tree struct{
     value int
     left *tree
@@ -63,11 +63,9 @@ func insert (t *tree, v int) *tree{
 		
 	}else {
 		t.right = insert(t.right, v)
-	}/*else {
-		search(t)
-	}*/
-	new_t := *t
-	fmt.Printf("%v =====\n ",new_t.left)
+	}
+	
+	
 	return t
 
 }
@@ -77,19 +75,14 @@ func side (t *tree){
 	if (t == nil){
 		return
 	}
-	
 	side(t.left)
-	//prin1()
-	fmt.Printf("%d \t", t.value)
+	t.prin1()
 	side(t.right)
 	
 }
 
-/*func search(s *tree, v int){
-	if(v > )
-}
-*/
-
-/*func prin1(){
+func (t *tree) prin1()  {
+	
 	fmt.Printf("%d \t", t.value)
-}*/
+	
+}
