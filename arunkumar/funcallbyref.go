@@ -9,7 +9,7 @@ type rect struct {
 	x, y int
 }
 
-func (r rect) area() int {
+func area(r rect) int {
 	return r.x * r.y
 }
 
@@ -20,7 +20,7 @@ func (r *rect) Scale(f int) {
 
 func main() {
 	r := rect{3, 4}
-	fmt.Println(r.area())
+	fmt.Println(area(r))
 	r.Scale(10)
-	fmt.Println(r.area())
+	fmt.Println(area(r))
 }
