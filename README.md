@@ -1,5 +1,5 @@
 ## golang-training-2016
 
-#### @ Aaron branch for arun go_code   
-#### @ Ken branch for kumaresh go_code    
-#### @ Sai branch for reddysai go_code    
+#### @ Arun_kumar branch for aaron go_code   
+#### @ Kumaresh branch for ken go_code    
+#### @ Reddy_sai branch for Sai go_code    
