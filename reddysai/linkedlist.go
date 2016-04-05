@@ -44,5 +44,5 @@ func main() {
 			for e := l.Front(); e != nil; e = e.Next() {
 				fmt.Println(e.Value)
 			}
-
+			
 }
