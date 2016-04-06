@@ -63,8 +63,8 @@ func checkErr(err error){
 	}
 }
 
-func main(){
-	DBcon()
-	Insertion()
+// func main(){
+// 	DBcon()
+// 	Insertion()
 	
-}
+//}
