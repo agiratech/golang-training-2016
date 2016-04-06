@@ -11,7 +11,7 @@ func main() {
 	//js = saipackage.Searchkey()
 
 	js =insert.Insertion()
-
+	//log.Fatal( http.FileServer(http.Dir("csv/static")))
 	http.Handle("/", http.FileServer(http.Dir("static")))
 	http.HandleFunc("/insert", handler)
 
