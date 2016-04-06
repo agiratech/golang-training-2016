@@ -22,4 +22,4 @@ func main() {
 func handler(w http.ResponseWriter, r *http.Request){
 	w.Write([]byte(js))
 }
- //"github.com:agiratech/golang-training-2016/reddysai"
+ 
