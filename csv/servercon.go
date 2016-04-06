@@ -3,8 +3,8 @@ import(
 	// "fmt"
 	"net/http"
 	//"./saipackage"
-	//"./insert"
-	"github.com/agiratech/golang-training-2016/reddysai/insert"
+	"./insert"
+	//"github.com/agiratech/golang-training-2016/csv/insert"
 )
 var js string
 func main() {
