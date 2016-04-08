@@ -1,0 +1,5 @@
+2016/04/08 17:09:17 <nil>
+2016/04/08 17:09:22 localhost:3000 127.0.0.1:58645 GET empidm HTTP/1.1
+2016/04/08 17:09:22 pq: duplicate key value violates unique constraint "employee_empid_key"
+2016/04/08 17:10:19 localhost:3000 127.0.0.1:58651 GET empidm HTTP/1.1
+2016/04/08 17:10:19 pq: duplicate key value violates unique constraint "employee_empid_key"
