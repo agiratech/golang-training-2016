@@ -2,3 +2,6 @@
 2016/04/08 17:19:59 pq: duplicate key value violates unique constraint "employee_empid_key"
 2016/04/08 17:25:48 localhost:3000 127.0.0.1:58931 GET empidm HTTP/1.1
 2016/04/08 17:25:48 pq: duplicate key value violates unique constraint "employee_empid_key"
+2016/04/08 17:57:47 localhost:3000 127.0.0.1:59068 GET empid HTTP/1.1
+2016/04/08 17:58:44 localhost:3000 127.0.0.1:59068 GET empidm HTTP/1.1
+2016/04/08 17:58:54 localhost:3000 127.0.0.1:59068 GET empid HTTP/1.1
