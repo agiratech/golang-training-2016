@@ -5,3 +5,605 @@
 2016/04/08 17:57:47 localhost:3000 127.0.0.1:59068 GET empid HTTP/1.1
 2016/04/08 17:58:44 localhost:3000 127.0.0.1:59068 GET empidm HTTP/1.1
 2016/04/08 17:58:54 localhost:3000 127.0.0.1:59068 GET empid HTTP/1.1
+2016/04/08 18:31:08 localhost:3000 127.0.0.1:59133 GET empidm HTTP/1.1
+2016/04/08 18:31:47 localhost:3000 127.0.0.1:59133 GET mmmmmm HTTP/1.1
+2016/04/08 18:32:31 localhost:3000 127.0.0.1:59133 GET mmmmmm HTTP/1.1
+2016/04/11 10:46:17 Bad Request 404
+2016/04/11 10:46:17 Host : localhost:8080
+Remote Address : 127.0.0.1:57140
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+2016/04/11 10:47:11 Bad Request 404
+2016/04/11 10:47:11 Host : localhost:8080
+Remote Address : 127.0.0.1:57140
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+Host : localhost:8080
+Remote Address : 127.0.0.1:57447
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+Host : localhost:8080
+Remote Address : 127.0.0.1:57447
+Method Type : GET
+Path : emmpid
+Prote Type : HTTP/1.1
+StatusCode : 404
+Host : localhost:8080
+Remote Address : 127.0.0.1:57447
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+Host : localhost:8080
+Remote Address : 127.0.0.1:57461
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 200
+Host : localhost:8080
+Remote Address : 127.0.0.1:57461
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+Host : localhost:8080
+Remote Address : 127.0.0.1:57461
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+Host : localhost:8080
+Remote Address : 127.0.0.1:57461
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+Host : localhost:8080
+Remote Address : 127.0.0.1:57461
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+Host : localhost:8080
+Remote Address : 127.0.0.1:57462
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+Host : localhost:8080
+Remote Address : 127.0.0.1:57465
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+Host : localhost:8080
+Remote Address : 127.0.0.1:57467
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+Host : localhost:8080
+Remote Address : 127.0.0.1:57467
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+Host : localhost:8080
+Remote Address : 127.0.0.1:57467
+Method Type : GET
+Path : emmpid
+Prote Type : HTTP/1.1
+StatusCode : 404
+Time : 11046/47/44 12:47:45
+Host : localhost:8080
+Remote Address : 127.0.0.1:57586
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : %!d(string=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0)
+Time : 11046/47/44 12:47:56
+Host : localhost:8080
+Remote Address : 127.0.0.1:57586
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : %!d(string=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0)
+Time : 2016-04-11 12:50:21.364162 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:57591
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Time : 2016-04-11 12:50:29.377423 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:57591
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 12:53:17.053029 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:57600
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 12:53:44.179587 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:57600
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 13:04:42.453299 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:57657
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:13:47.065576 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58120
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:14:01.022482 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58120
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:16:11.283965 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58126
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:16:18.788441 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58126
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:31:05.619931 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58230
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:31:06.803795 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58230
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:31:16.735237 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58230
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:37:37.953983 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58240
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:37:49.559697 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58240
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:39:31.692853 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58243
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 15:39:42.465433 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58243
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 16:32:32.387053 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58598
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 16:32:42.185482 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58598
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 16:33:54.619309 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58603
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 16:47:30.330188 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58789
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 16:48:23.598242 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:58789
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:25:50.586463 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59031
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:26:19.343014 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59033
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:27:39.897942 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59033
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:28:06.53692 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59036
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 200
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:29:28.334455 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59036
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:34:25.819727 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59109
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:35:16.427241 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59111
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:43:53.867656 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59230
+Method Type : GET
+Path : empid.json
+Prote Type : HTTP/1.1
+StatusCode : 404
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 17:44:17.691345 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59231
+Method Type : GET
+Path : empid.json
+Prote Type : HTTP/1.1
+StatusCode : 404
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:03:01.580739 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59630
+Method Type : GET
+Path : empid.json
+Prote Type : HTTP/1.1
+StatusCode : 404
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:06:00.272152 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59631
+Method Type : GET
+Path : empid.json
+Prote Type : HTTP/1.1
+StatusCode : 404
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:11:24.972632 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59635
+Method Type : GET
+Path : empid.json
+Prote Type : HTTP/1.1
+StatusCode : 404
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:13:11.951172 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59636
+Method Type : GET
+Path : empid.json
+Prote Type : HTTP/1.1
+StatusCode : 404
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:43:21.922659 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59961
+Method Type : GET
+Path : empid.json
+Prote Type : HTTP/1.1
+StatusCode : 404
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:43:57.675701 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59961
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:45:24.134569 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59967
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:46:23.507383 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59968
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:46:38.965867 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59968
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:49:20.472558 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59976
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:50:36.562543 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59976
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:52:40.305716 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59988
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:53:09.75583 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59988
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+===========================================
+Time : 2016-04-11 18:56:39.763061 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59994
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+ Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================
+Time : 2016-04-11 18:58:28.881279 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:59997
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================
+Time : 2016-04-11 19:09:06.17746 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:60006
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================
+Time : 2016-04-11 19:22:11.257815 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:60100
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================
+Time : 2016-04-11 19:49:00.584822 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:60333
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================
+Time : 2016-04-11 19:49:53.444546 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:60333
+Method Type : GET
+Path : empid
+Prote Type : HTTP/1.1
+StatusCode : 0
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================
+Time : 2016-04-11 19:51:49.533395 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:60338
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================
+Time : 2016-04-11 20:03:19.718366 +0530 IST
+Host : localhost:8080
+Remote Address : 127.0.0.1:60369
+Method Type : GET
+Path : 
+Prote Type : HTTP/1.1
+StatusCode : 304
+HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 11:01:53.42031 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:44419  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 304  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 11:01:53.583852 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:44419  Method Type : GET  Path : favicon.ico  Prote Type : HTTP/1.1  StatusCode : 404  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 11:52:17.600415 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:44656  Method Type : GET  Path : arun  Prote Type : HTTP/1.1  StatusCode : 404  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 12:31:47.428456 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:45246  Method Type : GET  Path : favicon.ico  Prote Type : HTTP/1.1  StatusCode : 404  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:32:06.788975 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47477  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.426556 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.435922 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.437895 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.439674 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.441478 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.443664 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.445649 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.447388 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.449167 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.450843 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.452771 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.454469 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.456538 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.458188 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.460353 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.462152 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.463794 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.465358 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path :   Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:33:09.467059 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47482  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 301  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:34:35.070153 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47483  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 200  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:36:10.538242 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47483  Method Type : GET  Path : /empid  Prote Type : HTTP/1.1  StatusCode : 0  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 14:53:58.567633 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47768  Method Type : GET  Path : /view/test  Prote Type : HTTP/1.1  StatusCode : 404  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+===========================================  Time : 2016-04-12 15:04:15.61649 +0530 IST  Host : localhost:8080  Remote Address : 127.0.0.1:47846  Method Type : GET  Path : /  Prote Type : HTTP/1.1  StatusCode : 304  HttpClient : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0  Content Type : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
