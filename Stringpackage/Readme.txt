@@ -9,9 +9,9 @@ Function name              	 Function Process
 5.	StrconvFtoi              - Converts from Float ti Integer 
 6.	StrAppend                - Appends the Content of one string var to another new var
 7.	StrTitle                 - Changes the Title of any String to capital(only first Letter is changed to capital) 
-8.	StrRepeat           	 - Repeats the String given number of Times	
+8.	StrRepeat              	 - Repeats the String given number of Times	
 9.	StrReverse               - Reverse the Given String 
-10.	StrSplit	  	         - Splits the Given string 		
+10.	StrSplit	  	           - Splits the Given string 		
 11.	StrSplitAfter            - Splits the Given string after given Special Character
 12.	StrSplitN                - Removes the special Char from the given String or Integer
 13.	StrSplitChar             - Splits the Given Characters
@@ -22,9 +22,9 @@ Function name              	 Function Process
 18.	StromitFront             - Returns the needed Front Parts of the given string
 19.	StromitBack              - Returns the needed Front Parts of the given string
 20.	StrFirstWords            - Returns all the needed sub-string given string 
-21.	StrSort			         - Returns the Sorted String	
+21.	StrSort			             - Returns the Sorted String	
 22.	StrSwap                  - Returns the  given string After Swapping
-23.	StrReplace		         - Replaces the given sub string from the string					
+23.	StrReplace		           - Replaces the given sub string from the string					
 24.	StrLower                 - Converts the string into lower-case
 25.	StrUpper                 - Converts the string into upper-case
 26.	StrContains              - Returns True if the given substr is available 
