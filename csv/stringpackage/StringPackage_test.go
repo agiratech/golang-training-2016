@@ -40,6 +40,11 @@ func Test_StrconvItof(t *testing.T){
 func Test_StrconvFtoi(t *testing.T){
 	var i int
 	i=StrconvFtoi(3.14)
+	if i!=3{
+		t.Error("Its not working")
+	} else {
+		t.Log("Its working")
+	}
 }
 func Test_StrAppend(t *testing.T){
 	if StrAppend("reddy","sai")!="reddysai"{
