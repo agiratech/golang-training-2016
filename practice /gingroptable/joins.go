@@ -52,7 +52,6 @@ func initDb() *gorp.DbMap {
 }
 
 func Createtable(c *gin.Context) {
-
 	dbmap.AddTableWithName(Stud{},"Stud").SetKeys(true,"Sid")
   dbmap.AddTableWithName(Teacher{},"Teacher").SetKeys(true,"Tid")
     err := dbmap.CreateTablesIfNotExists()
@@ -85,6 +84,7 @@ func Insert(c *gin.Context) {
  }
 
  func Selectid(c *gin.Context) {
+  log.Println(c)
    
    ide:= c.Param("id")
    zod,_:=strconv.Atoi(ide)
