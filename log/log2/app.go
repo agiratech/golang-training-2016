@@ -8,6 +8,7 @@ import (
   "log"
    "strconv"
    "time"
+   "encoding/json"
   //"io/ioutil"
 
 )
@@ -50,7 +51,8 @@ func Log(handler http.Handler) http.Handler {
 }
 
 func handler_search(w http.ResponseWriter,r *http.Request) {
-
+  byte, _ := json.Marshal(r)
+  fmt.Println()
 	value := r.FormValue("name")
     value1, _:= strconv.Atoi(value)
     search:= arunpackage.Db_con(value1)
