@@ -1,0 +1,22 @@
+package main
+
+import ("database/sql"
+        "github.com/gin-gonic/gin"
+        "gopkg.in/gorp.v1"
+        "log")
+var dbmap = initDb()
+
+func intiDb() *gorp.DbMap {
+	
+	db, err := sql.Open("postgres","user:postgres password:'root dbname:aaron sslmode:diasable")
+	if err!=nil {
+	log.Fatal(err)
+	}
+	 dbmap := &gorp.DbMap{Db: db, Dialect:           gorp.MySQLDialect{"InnoDB", "UTF8"}}
+     dbmap.AddTableWithName(User{}, "User").SetKeys(true, "Id")
+     err = dbmap.CreateTablesIfNotExists()
+     checkErr(err, "Create table failed")
+
+return dbmap
+
+}

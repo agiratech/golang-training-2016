@@ -8,7 +8,7 @@ import ("database/sql"
         "log"
         "strconv")
 
-
+  
 
 type Invoice struct {
     Id     int64 `db:"id" json:"id"`
@@ -19,7 +19,8 @@ type Invoice struct {
 
 }
 
-var dbmap = initDb()
+//var dbmap = initDb()
+var dbmap *gorp.DbMap
 
 func checkerr(err error, msg string){
  
@@ -118,10 +119,10 @@ func insertInvoiceid(c *gin.Context) {
 
 func main() {
     
-    dbmap := initDb()
+    dbmap = initDb()
     router := gin.Default()
-    router.GET("/",createInvoice)
-    router.GET("/user",getInvoice)
+    router.GET("/user1",createInvoice)
+    router.GET("/user/",getInvoice)
     router.GET("/user/:id",getInvoiceid)
     router.GET("/insert",insertInvoiceid)
     router.GET("/delete/:id",deleteInvoice)
