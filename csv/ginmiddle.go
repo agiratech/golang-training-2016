@@ -16,8 +16,8 @@ type Student struct {
     
     Id      int  `db:"student_id" json:"student_id"`
     JoinDate string
-    Name   string `db:"student_name"`               // Column size set to 50
-    Address    string `db:"student_address"` // Set both column name and size
+    Name   string `db:"student_name"`              
+    Address    string `db:"student_address"` 
 }
 
 // func newPost(name, address string) Student {
@@ -53,11 +53,11 @@ var err error
 func main() {
  r := gin.Default()
  dbmap = initDb()
-//
+
  r.GET("/users", GetUsers)
  r.GET("/users/:id", GetUser)
- r.GET("/userdelete/:id",DeleteUser)
- r.GET("/insert", PutUser)
+ r.DELETE("/users/:id",DeleteUser)
+ r.POST("/users", PutUser)
  //v1.PUT("/users/:id", UpdateUser)
  //v1.DELETE("/users/:id", DeleteUser)
  //}
@@ -105,11 +105,11 @@ var student Student
 if err == nil {
  _, err = dbmap.Delete(&student)
 
-if err == nil {
- c.JSON(200, gin.H{"id #" + id: " deleted"})
- } else {
- checkErr(err, "Delete failed")
- }
+    if err == nil {
+     c.JSON(200, gin.H{"id #" + id: " deleted"})
+     } else {
+     checkErr(err, "Delete failed")
+     }
 
 } else {
  c.JSON(404, gin.H{"error": "user not found"})
@@ -126,7 +126,7 @@ if err == nil {
     err = dbmap.Insert(&student)
     log.Print(err)
     if err == nil{
-        c.String(http.StatusOK,"Inserted Successfully")
+        c.String(http.StatusOK,"Inserted Successfully\n")
         c.JSON(200,student)
     } else{
         c.JSON(404,gin.H{"error": "Insertion failed"})
